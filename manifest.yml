@@ -1,0 +1,6 @@
+---
+applications:
+- name: godora
+  memory: 8M
+  env:
+    GOPACKAGENAME: github.com/k-kurumi/go-dora # 任意の文字でもよい

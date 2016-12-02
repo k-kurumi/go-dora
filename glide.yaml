@@ -1,0 +1,4 @@
+package: github.com/k-kurumi/cf_sample_golang1
+import:
+- package: github.com/labstack/echo
+  version: ^3.0.2
